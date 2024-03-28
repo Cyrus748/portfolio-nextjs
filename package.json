@@ -1,0 +1,44 @@
+{
+  "name": "portfolio-nextjs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "push": "git add -A && git commit -m \"update changes and bug fixes\" && git push origin master"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "animejs": "^3.2.2",
+    "framer-motion": "^11.0.5",
+    "lodash": "^4.17.21",
+    "next": "14.1.0",
+    "postcss": "8.4.35",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-wrap-balancer": "^1.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@tailwindcss/typography": "^0.5.10",
+    "@types/animejs": "^3.1.12",
+    "@types/lodash": "^4.14.202",
+    "@types/node": "20.11.19",
+    "@types/react": "18.2.57",
+    "autoprefixer": "10.4.17",
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8.4.21",
+    "postcss-nesting": "^12.0.3",
+    "sass": "^1.71.1",
+    "tailwindcss": "3.4.1",
+    "tailwindcss-debug-screens": "^2.2.1",
+    "typescript": "^5.3.3"
+  }
+}
