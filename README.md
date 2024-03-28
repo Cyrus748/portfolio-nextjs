@@ -2,15 +2,15 @@
 
 This repository contains the source code for a portfolio website built using Next.js and Sass. This README.md file provides an overview of the project and instructions on how to set it up and customize it for your own use.
 
-[![Stars](https://img.shields.io/github/stars/nixrajput/portfolio-nextjs?label=Stars&style=flat)][repo]
-[![Forks](https://img.shields.io/github/forks/nixrajput/portfolio-nextjs?label=Forks&style=flat)][repo]
-[![Watchers](https://img.shields.io/github/watchers/nixrajput/portfolio-nextjs?label=Watchers&style=flat)][repo]
-[![Contributors](https://img.shields.io/github/contributors/nixrajput/portfolio-nextjs?label=Contributors&style=flat)][repo]
+[![Stars](https://img.shields.io/github/stars/Cyrus748/portfolio-nextjs?label=Stars&style=flat)][repo]
+[![Forks](https://img.shields.io/github/forks/Cyrus748/portfolio-nextjs?label=Forks&style=flat)][repo]
+[![Watchers](https://img.shields.io/github/watchers/Cyrus748/portfolio-nextjs?label=Watchers&style=flat)][repo]
+[![Contributors](https://img.shields.io/github/contributors/Cyrus748/portfolio-nextjs?label=Contributors&style=flat)][repo]
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/nixrajput/portfolio-nextjs?label=Last+Commit&style=flat)][repo]
-[![GitHub issues](https://img.shields.io/github/issues/nixrajput/portfolio-nextjs?label=Issues&style=flat)][issues]
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/nixrajput/portfolio-nextjs?label=Pull+Requests&style=flat)][pulls]
-[![GitHub Licence](https://img.shields.io/github/license/nixrajput/portfolio-nextjs?label=Licence&style=flat)][license]
+[![GitHub last commit](https://img.shields.io/github/last-commit/Cyrus748t/portfolio-nextjs?label=Last+Commit&style=flat)][repo]
+[![GitHub issues](https://img.shields.io/github/issues/Cyrus748/portfolio-nextjs?label=Issues&style=flat)][issues]
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Cyrus748/portfolio-nextjs?label=Pull+Requests&style=flat)][pulls]
+[![GitHub Licence](https://img.shields.io/github/license/Cyrus748/portfolio-nextjs?label=Licence&style=flat)][license]
 
 ## Table of Contents
 
@@ -56,7 +56,7 @@ You need to have the following software installed on your computer:
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/nixrajput/portfolio-nextjs.git
+   git clone https://github.com/Cyrus748/portfolio-nextjs.git
    ```
 
 3. Navigate to the project directory:
@@ -109,7 +109,6 @@ You can customize various aspects of the portfolio website to make it your own.
 
    - Edit the `projects.ts` file to add or modify project details.
    - Edit the `services.ts` file to add or modify services you provide.
-   - Edit the `experiences.ts` file to add or modify experiences you have.
    - Edit the `skills.ts` file to add or modify skills you know.
    - Edit the `socialLinks.ts` file to add or modify socila media links.
 
@@ -136,20 +135,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Your sponsorship directly fuels innovation, fosters a vibrant community, and helps maintain the project's high standards of quality. Together, we can shape the future of the projects and make a lasting impact in the open-source community.
 - Thank you for considering sponsoring my work!
 
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nixrajput)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Cyrus748)
 
 ## Connect With Me
 
-[![GitHub: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/nixrajput)][github]
-[![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/nixrajput)][linkedin]
-[![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
-[![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput-EFF7F6?logo=X&logoColor=333&link=https://x.com/nixrajput)][twitter]
-[![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-[![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+[![GitHub: Aditya](https://img.shields.io/badge/Cyrus748-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/Cyrus748)][github]
+[![Linkedin: Aditya](https://img.shields.io/badge/adityanegi748-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/adityanegi748)][linkedin]
+[![Instagram: Aditya](https://img.shields.io/badge/_adityanegi1-EFF7F6?logo=Instagram&link=https://www.instagram.com/_adityaneg1)][instagram]
+[![Twitter: Aditya](https://img.shields.io/badge/_adityanegi69-EFF7F6?logo=X&logoColor=333&link=https://x.com/_adityanegi69)][twitter]
+[![Gmail: Aditya](https://img.shields.io/badge/adityanegi748@gmail.com-EFF7F6?logo=Gmail&link=mailto:adityanegi748@gmail.com)][gmail]
 
-[github]: https://github.com/nixrajput
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
+[github]: https://github.com/Cyrus748
+[twitter]: https://twitter.com/_adityanegi69
+[instagram]: https://instagram.com/_adityanegi1
 [linkedin]: https://linkedin.com/in/nixrajput
 [telegram]: https://telegram.me/nixrajput
 [gmail]: mailto:nkr.nikhil.nkr@gmail.com
